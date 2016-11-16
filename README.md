@@ -1,2 +1,2 @@
-# Simple-Web-Site
-Listing Phonetic Alphabets
+# phonetic-website
+This repository is used for Git and GitHub training.
